@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishkarsh
-- 👀 I’m interested in learning AI/ML in the long run
+- 👀 I’m interested in AI-powered search tools
 - 🌱 I’m currently into Front end Development using react
 - 💻 I’m looking to collaborate on full stack projects
 
