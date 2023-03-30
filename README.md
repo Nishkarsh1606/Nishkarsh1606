@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishkarsh
-- 👀 I’m interested in AI-powered search tools
+- 👀 I’m interested in AI-powered productivity tools
 - 🌱 I’m currently into Full-Stack Projects using MERN
 - 💻 Always looking to colloborate on interesting projects
 
