@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishkarsh</h1>
-<h3 align="center">Personal computing and AI-productivity enthusiast. I'm building Findr - Google for your workspace.</h3>
+<h1 align="left">Hi 👋, I'm Nishkarsh</h1>
+<h3 align="left">Personal computing and AI-productivity enthusiast. I'm building Findr - Google for your workspace.</h3>
 
 - 🔭 I’m currently working on [Findr](www.usefindr.com)
 
