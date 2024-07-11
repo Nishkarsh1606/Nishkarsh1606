@@ -10,7 +10,7 @@
 
 📫 How to reach me **nishkarsh@usefindr.com**
 
-⚡ Random: **I think javascript can overtake python in ML (once WebGPU becomes mainstream)**
+⚡ Random: **I think javascript will overtake python for ML (once WebGPU becomes mainstream)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
