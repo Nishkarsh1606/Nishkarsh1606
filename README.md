@@ -2,7 +2,7 @@
 <h2>I'm super interested in </h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Personal+computing;%26+AI-powered+productivity+tools" alt="Typing SVG" /></a>
 
-🔭 I’m currently working on [Findr](www.usefindr.com)
+🔭 I’m currently working on <a href="https://www.usefindr.com" target="_blank">Findr</a>
 
 🌱 I’m currently into **natural language processing**
 
