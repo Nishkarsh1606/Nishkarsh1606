@@ -2,13 +2,13 @@
 <h2>I'm super interested in </h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Personal+computing;%26+AI-powered+productivity+tools" alt="Typing SVG" /></a>
 
-🔭 I’m currently working on <a href="https://www.usefindr.com" target="_blank">Findr</a>
+🔭 I’m currently working on <a href="https://www.hydradb.com" target="_blank">HydraDB</a>
 
 🌱 I’m currently into **natural language processing**
 
 📝 I regularly write stuff on [https://twitter.com/Nish306](https://twitter.com/Nish306)
 
-📫 How to reach me **nishkarsh@usefindr.com**
+📫 How to reach me **nishkarsh@hydradb.com**
 
 ⚡ Random: **I think javascript will overtake python for ML (once WebGPU becomes mainstream)**
 
